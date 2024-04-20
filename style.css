@@ -17,6 +17,6 @@ body {
 
 @media(max-width:800px){
   .clock{
-    font-size: 100px;
+    font-size: 80px;
   }
 }
